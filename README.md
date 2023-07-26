@@ -1,2 +1,2 @@
-# Jupiter_sharing
-ML Projects from Jupiter
+# Jupyter_sharing
+ML Projects from Jupyter
